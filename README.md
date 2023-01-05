@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋!
+Currently this account for assignment only! Maybe not to active but here I am!
+</li>
+Mohammad Habib Ramadhan AKA <b>Habib</b>
+</li>
+
+ Male Informatics College Student of Telkom University
+</li>
+Nice to meet you!
+</li>
 
 <!--
 **FranNoire/FranNoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
