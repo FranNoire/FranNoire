@@ -6,7 +6,11 @@ Mohammad Habib Ramadhan AKA <b>Habib</b>
 
  Male Informatics College Student of Telkom University
 </li>
-Nice to meet you!
+
+ Had some experience and still studying python, golang and c++
+ 
+</li>
+ Nice to meet you!
 </li>
 <img src=https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif>
 
