@@ -8,6 +8,8 @@ Mohammad Habib Ramadhan AKA <b>Habib</b>
 </li>
 Nice to meet you!
 </li>
+<img src=https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif>
+
 
 <!--
 **FranNoire/FranNoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
